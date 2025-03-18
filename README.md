@@ -13,9 +13,9 @@
 ---
 
 ### 🔭 Open-Source Projects I'm Working On  
-- 🛡️ **[SBOMit](#https://github.com/SBOMit)** – Researching and mitigating vulnerabilities in software supply chains  
-- 🔄 **[IoT Reference Monitor](#https://github.com/skn8733/IOT-Reference-Monitor-RePy-Framework-Implementation-and-Exploiting-Vulnerabilities)** – Implementing access control using the RePy framework  
-- 🏗️ **[Container Security Research](#https://docs.google.com/document/d/18aF8_P5U5Q-7Hz_eLR0rl5UUbsGrsqWfaMuIIotb-8Q/edit?usp=sharing)** – Studying TCP-based attacks in containerized environments
+- 🛡️ **[SBOMit](https://github.com/SBOMit)** – Researching and mitigating vulnerabilities in software supply chains  
+- 🔄 **[IoT Reference Monitor](https://github.com/skn8733/IOT-Reference-Monitor-RePy-Framework-Implementation-and-Exploiting-Vulnerabilities)** – Implementing access control using the RePy framework  
+- 🏗️ **[Container Security Research](https://docs.google.com/document/d/18aF8_P5U5Q-7Hz_eLR0rl5UUbsGrsqWfaMuIIotb-8Q/edit?usp=sharing)** – Studying TCP-based attacks in containerized environments
 - **[Logistic Regression Analysis on Probe vs Non Probe](#)** - 
 
 ---
@@ -28,7 +28,7 @@
 
 ### 📫 Connect With Me  
 📧 **Email**: skn8733@nyu.edu
-🔗 **[LinkedIn](#https://www.linkedin.com/in/shasanka-nudurupati/)**: 
+🔗 **[LinkedIn](https://www.linkedin.com/in/shasanka-nudurupati/)**: 
 🌐 **Website (TBH)**  
 
 ---
