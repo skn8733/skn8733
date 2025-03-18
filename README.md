@@ -16,7 +16,7 @@
 - 🛡️ **[SBOMit](https://github.com/SBOMit)** – Researching and mitigating vulnerabilities in software supply chains  
 - 🔄 **[IoT Reference Monitor](https://github.com/skn8733/IOT-Reference-Monitor-RePy-Framework-Implementation-and-Exploiting-Vulnerabilities)** – Implementing access control using the RePy framework  
 - 🏗️ **[Container Security Research](https://docs.google.com/document/d/18aF8_P5U5Q-7Hz_eLR0rl5UUbsGrsqWfaMuIIotb-8Q/edit?usp=sharing)** – Studying TCP-based attacks in containerized environments
-- **[Logistic Regression Analysis on Probe vs Non Probe](#)** - 
+- **[K99Cup Attack Classification ML Modeling](https://github.com/skn8733/KDDCup99_AttackClassifier)** - Machine Learning modeling to classify DoS and Probe using Logistic Regression (L1 vs L2) and SVMs (Kernel Comparisons - linear, poly, rbf, sigmoid) 
 
 ---
 
