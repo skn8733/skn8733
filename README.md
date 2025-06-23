@@ -13,6 +13,7 @@
 ---
 
 ### 🔭 Open-Source Projects I'm Working On  
+- ⚙️ **[Offline AI Query tool (Using RAG pipline)](https://github.com/skn8733/AI-Query-tool-)** - built using a Retrieval-Augmented Generation (RAG) pipeline powered by a local Large Language Model (LLM).
 - 🛡️ **[SBOMit](https://github.com/SBOMit)** – Researching and mitigating vulnerabilities in software supply chains  
 - 🔄 **[IoT Reference Monitor](https://github.com/skn8733/IOT-Reference-Monitor-RePy-Framework-Implementation-and-Exploiting-Vulnerabilities)** – Implementing access control using the RePy framework  
 - 🏗️ **[Container Security Research](https://docs.google.com/document/d/18aF8_P5U5Q-7Hz_eLR0rl5UUbsGrsqWfaMuIIotb-8Q/edit?usp=sharing)** – Studying TCP-based attacks in containerized environments
